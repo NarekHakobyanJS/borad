@@ -1,0 +1,13 @@
+.Board {
+    width: 850px;
+    height: 850px;
+    background-color: beige;
+    margin: 30px auto;
+    border-radius: 26px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap : 10px;
+}
